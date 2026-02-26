@@ -1,0 +1,23 @@
+   .input{
+                margin-top: 5px;
+                width: 280px;
+                height: 25px;
+            }
+            .email{
+                margin-bottom: 0px;
+                color: #626262;
+            }
+            .privacy{
+                
+                color: #626262;
+                font-size: 11px;
+            }
+            .button{
+                width: 300px;
+                background-color: #2C64B6;
+                color: aliceblue;
+                border: none;
+                border-radius: 50px;
+                height: 35px;
+                cursor: pointer;
+            }
